@@ -35,7 +35,7 @@ A basic knowledge of the command line is also required. See [here](https://datac
 ## Usage
 To add your MySQL credentials:
 1. In the root directory of the app, create a file called `.env`
-2. Open the .env file, and enter the database name ('ecommerce_db'), and your MySQL credentials in the following format: 
+2. Open the `.env` file, and enter the database name ('ecommerce_db'), and your MySQL credentials in the following format: 
 
 ```
 DB_NAME='ecommerce_db'
